@@ -1,0 +1,1 @@
+vending_machine = [{name: "Gum", price: 1}]
